@@ -3,6 +3,21 @@ body{
     background: rgb(238, 238, 192);
 }
 
+header{
+    border-bottom: solid 2px;
+    border-color: green;
+    font-size: 40px;
+}
+
 .chamada{
-    background:green;
+    background:rgb(217, 252, 217);
+    color: rgb(209, 37, 37);
+    padding-left: 5%;
+    padding-right: 5%;
+    justify-content: center;
+}
+section{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
 }
