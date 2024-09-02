@@ -21,3 +21,15 @@ section{
     display: flex;
     justify-content: center;
 }
+
+.lista{
+    background: black;
+    /* display: flex; */
+    /* overflow-x: auto; */
+    /* gap: 10px; */
+}
+
+/* img{
+    height: px;
+    
+} */
